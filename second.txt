@@ -1,3 +1,8 @@
-# this is it 
-kopo 
-lnim;qyk
+#vectors 
+
+a=c(1,2,3)
+b=c(1,2,3)
+ #matrix
+mat  = matrix(c(1,2,3,45))
+
+mat2  = matrix(c(1,2,3,45),ncol=2)
